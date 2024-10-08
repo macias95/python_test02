@@ -1,1 +1,2 @@
-# python_test02
+# Read me
+- first repo with readm me on lab
